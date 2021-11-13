@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Biblio Copier",
+  "version": "0.1",
+  "author": "M. Alexander Turner",
+  "description": "Easily create well-formated bibliographic entries and lift HTML from web pages.",
+  "permissions": [
+    "clipboardWrite",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["http://*/*","https://*/*"],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
