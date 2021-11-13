@@ -2,7 +2,7 @@
 // Author: M. Alexander Turner
 // Author URI: http://www.maturnerpoetry.com/
 // Author Github URI: https://github.com/aluxt
-// Project Repository URI: NONE
+// Project Repository URI: https://github.com/aluxt/Chrome-Bibliography-copy-Extension
 // Description: Easily create well-formated bibliographic entries and lift HTML from web pages.
 
 var title = "untitled";

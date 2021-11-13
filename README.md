@@ -9,7 +9,7 @@ This is a basic Chrome Extension for copying clean-formatted bibliographic entri
 M. Alexander Turner
 - [Author Website](http://www.maturnerpoetry.com/)
 - [Author Github](https://github.com/aluxt)
-- [Project Repository](NONE)
+- [Project Repository](https://github.com/aluxt/Chrome-Bibliography-copy-Extension)
 
 ## Setup Instructions
 1. Open Chrome Browser
